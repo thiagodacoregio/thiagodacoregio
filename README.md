@@ -1,4 +1,4 @@
-# 👋 Hi! I`m Thiago
+# 👋 Hi there! I`m Thiago
 
 ## 👨‍💻 Full stack developer student
  
