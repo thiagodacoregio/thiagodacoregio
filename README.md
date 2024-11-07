@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/thiago-hert-da-cor%C3%A9gio-40a897127/"target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"</a>
 </div>
  
-### Main skills:
+### ✅ Main skills:
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
