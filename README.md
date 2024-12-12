@@ -8,7 +8,7 @@
 
 <div align="left">  
 <a href="https://www.instagram.com/thiagodacoregio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"</a>   
-<a href="https://www.linkedin.com/in/thiago-hert-da-cor%C3%A9gio-40a897127/"target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/thiagodacoregio/"target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"</a>
 </div>
  
 ### ✅ Main skills:
