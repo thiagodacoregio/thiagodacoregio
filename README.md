@@ -1,6 +1,6 @@
 # 👋 Hi there! I`m Thiago
 
-## 🎓 Software Engineering student at University of Bolton Jan/2025 - 2029
+## 🎓 Software Engineering student at University of Bolton Jan/2025 - 2028
 
 ## 👨‍💻 Full stack developer student
  
