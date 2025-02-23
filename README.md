@@ -1,6 +1,8 @@
-## 👋 Hi there! I`m Thiago Da Coregio
+Hello World🌎
+## Thiago Da Coregio
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/thiagodacoregio/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thiagodacoregio)
+
 
 ### 🎓 Software Engineering student at Regent College London
 
