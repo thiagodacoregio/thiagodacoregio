@@ -4,7 +4,7 @@
 
 ### 🎓 Software Engineering student at Regent College London
 
-#### I'm EU citizen, Brazilian and Italian ,passionate about solving problems with technology and creating different solutions.
+#### I'm EU citizen, Brazilian and Italian, passionate about solving problems with technology and creating different solutions.
 
  
 
